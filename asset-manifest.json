@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f8efa61.chunk.css",
+    "main.js": "/static/js/main.3b5a9eb2.chunk.js",
+    "main.js.map": "/static/js/main.3b5a9eb2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0346aa5a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0346aa5a.js.map",
+    "static/js/2.d51a6a08.chunk.js": "/static/js/2.d51a6a08.chunk.js",
+    "static/js/2.d51a6a08.chunk.js.map": "/static/js/2.d51a6a08.chunk.js.map",
+    "static/js/3.65d7d752.chunk.js": "/static/js/3.65d7d752.chunk.js",
+    "static/js/3.65d7d752.chunk.js.map": "/static/js/3.65d7d752.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ff9f2181042c68083bd9f4f7d8da64a1.js": "/precache-manifest.ff9f2181042c68083bd9f4f7d8da64a1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9f8efa61.chunk.css.map": "/static/css/main.9f8efa61.chunk.css.map",
+    "static/js/2.d51a6a08.chunk.js.LICENSE.txt": "/static/js/2.d51a6a08.chunk.js.LICENSE.txt",
+    "static/media/elo.svg": "/static/media/elo.ed415b90.svg",
+    "static/media/hipercard.svg": "/static/media/hipercard.d73dbd10.svg",
+    "static/media/mastercard.svg": "/static/media/mastercard.fa5695b4.svg",
+    "static/media/visa.svg": "/static/media/visa.62955588.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0346aa5a.js",
+    "static/js/2.d51a6a08.chunk.js",
+    "static/css/main.9f8efa61.chunk.css",
+    "static/js/main.3b5a9eb2.chunk.js"
+  ]
+}
