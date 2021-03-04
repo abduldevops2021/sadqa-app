@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17e7c2f6.chunk.css",
+    "main.js": "/static/js/main.18a0f7c5.chunk.js",
+    "main.js.map": "/static/js/main.18a0f7c5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.60b3a918.js",
+    "runtime-main.js.map": "/static/js/runtime-main.60b3a918.js.map",
+    "static/js/2.c831cf22.chunk.js": "/static/js/2.c831cf22.chunk.js",
+    "static/js/2.c831cf22.chunk.js.map": "/static/js/2.c831cf22.chunk.js.map",
+    "static/js/3.ff42e058.chunk.js": "/static/js/3.ff42e058.chunk.js",
+    "static/js/3.ff42e058.chunk.js.map": "/static/js/3.ff42e058.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9a42a46fb6e7a13f26e81a47397abcb9.js": "/precache-manifest.9a42a46fb6e7a13f26e81a47397abcb9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.17e7c2f6.chunk.css.map": "/static/css/main.17e7c2f6.chunk.css.map",
+    "static/js/2.c831cf22.chunk.js.LICENSE.txt": "/static/js/2.c831cf22.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/Card.7fdad895.png",
+    "static/media/Rectangle.png": "/static/media/Rectangle.53e48dbe.png",
+    "static/media/Sadaqah.png": "/static/media/Sadaqah.bdb1afe6.png",
+    "static/media/elo.svg": "/static/media/elo.ed415b90.svg",
+    "static/media/hipercard.svg": "/static/media/hipercard.d73dbd10.svg",
+    "static/media/mastercard.svg": "/static/media/mastercard.fa5695b4.svg",
+    "static/media/visa.svg": "/static/media/visa.ea9c9f96.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60b3a918.js",
+    "static/js/2.c831cf22.chunk.js",
+    "static/css/main.17e7c2f6.chunk.css",
+    "static/js/main.18a0f7c5.chunk.js"
+  ]
+}
