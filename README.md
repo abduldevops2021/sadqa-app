@@ -14,7 +14,7 @@ test
 ### branch link : https://github.com/umar4sap/umar4sap.github.io/tree/folder-copy-required
 OR
 
-## Full Source Code with Eaxample:
+## Full Source Code with Example:
 #### https://github.com/umar4sap/umar4sap.github.io/tree/full_src_code_example
 
 
