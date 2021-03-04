@@ -1,0 +1,21 @@
+:root {
+  --width-bank-logo: 120px;
+}
+
+.bankLogo {
+  right: 60%;
+  width: auto;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  position: absolute;
+  height: 75px;
+}
+
+
+
+
+.sadaqah-normal-black {
+  composes: bankLogo;
+  top: 2px;
+  left: 150px;
+}
